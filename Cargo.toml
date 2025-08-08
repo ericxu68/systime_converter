@@ -6,4 +6,4 @@ repository = "https://github.com/nlburgin/systime_converter"
 license = "ISC"
 description = "A library providing one single function: convert a standard-libary SystemTime into the much more user-friendly DateTime format used by the Chrono crate."
 [dependencies]
-chrono = "=0.4.0"
+chrono = "=0.4.24"
